@@ -91,32 +91,11 @@ I'm a final-year **Computer Engineering** student at the **University of Jaffna*
 <div align="center">
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PasinduChandrasiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PasinduChandrasiri&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PasinduChandrasiri&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com/?user=PasinduChandrasiri&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demolab.com/?user=PasinduChandrasiri&theme=default&hide_border=true">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.demolab.com/?user=PasinduChandrasiri&theme=default&hide_border=true" width="49%">
-</picture>
-
-</div>
-
-<div align="center">
-  
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChandrasiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChandrasiri&layout=compact&theme=default&hide_border=true&langs_count=8">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChandrasiri&layout=compact&theme=default&hide_border=true&langs_count=8" width="49%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=PasinduChandrasiri&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=PasinduChandrasiri&theme=default&hide_border=true">
-  <img alt="Coding Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pasindu_Chandrasiri&theme=default&hide_border=true" width="49%">
-</picture>
 
 </div>
 
