@@ -122,28 +122,10 @@ I'm a final-year **Computer Engineering** student at the **University of Jaffna*
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=PasinduChandrasiri&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=PasinduChandrasiri&theme=flat&no-frame=true&no-bg=true&row=1&column=7">
-  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=PasinduChandrasiri&theme=flat&no-frame=true&no-bg=true&row=1&column=7">
-</picture>
-
-</div>
-
----
-
 ## 🎯 Current Projects & Interests
 
-- 🤖 **AI-Powered Web Applications**: Building intelligent solutions that leverage machine learning for real-world problems
-- 🔍 **Computer Vision Projects**: Developing applications for image recognition, object detection, and visual analysis
-- 🌐 **Full-Stack Development**: Creating responsive, scalable web applications with modern frameworks
-- 🏠 **IoT Solutions**: Designing smart home automation systems and sensor networks
-- ⚡ **Embedded Systems**: Working on microcontroller programming and hardware integration
-- 📱 **Mobile Development**: Exploring React Native for cross-platform mobile applications
+- 🤖 **fireworks-browser-ai**: [Repo](https://github.com/PasinduChandrasiri/fireworks-browser-ai)
+
 
 ---
 
@@ -151,11 +133,11 @@ I'm a final-year **Computer Engineering** student at the **University of Jaffna*
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindu-chandrasiri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasinduchandrasiri/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasinduchandrasiri493@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PasinduChandrasiri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://photography-website-vite.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pasindu_chandrasiri/)
 
 </div>
 
@@ -181,7 +163,7 @@ When I'm not diving deep into code or exploring the latest AI breakthroughs, you
 
 <div align="center">
 
-### 💖 Thank you for visiting my profile!
+### ❤️ Thank you for visiting my profile!
 
 *"The best way to predict the future is to create it."* - Peter Drucker
 
