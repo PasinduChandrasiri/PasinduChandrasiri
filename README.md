@@ -115,7 +115,7 @@ I'm a final-year **Computer Engineering** student at the **University of Jaffna*
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=PasinduChandrasiri&theme=tokyonight&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=PasinduChandrasiri&theme=default&hide_border=true">
-  <img alt="Coding Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=PasinduChandrasiri&theme=default&hide_border=true" width="49%">
+  <img alt="Coding Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pasindu_Chandrasiri&theme=default&hide_border=true" width="49%">
 </picture>
 
 </div>
